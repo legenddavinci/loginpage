@@ -1,0 +1,53 @@
+body{
+    background-image: url(/pictures/pic\ 26.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+div.db{
+    /* border: 3px solid red; */
+    margin-right: 900px;
+    padding: 50px;
+    position: absolute;
+    top: 130px;
+    left: 40%;
+}
+
+h2{
+    color: brown;
+}
+
+
+h5{
+    color: red;
+}
+label{
+    color: red;
+}
+
+div.da ul li a{
+    text-decoration: none;
+}
+
+div.da{
+    position: absolute;
+    top:2;
+    padding: 1px;
+    left: 50px;
+}
+
+div.da ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 15px;
+    background-color: white;
+    margin-right: 200px;
+ }
+
+/* div.da ul{
+    
+} */
